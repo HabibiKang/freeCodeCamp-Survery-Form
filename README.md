@@ -1,2 +1,2 @@
 # freeCodeCamp-Survery-Form
-[![Cover Photo](nicotine.png)](https://github.com/HabibiKang/Poetry-Portfolio/)Here's the front-end for a survery form I made for freeCodeCamp's Responsive Design course. 
+[![Cover Photo](6.19](https://github.com/HabibiKang/freeCodeCamp-Survey-Form)Here's the front-end for a survery form I made for freeCodeCamp's Responsive Design course. 
